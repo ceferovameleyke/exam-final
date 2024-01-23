@@ -1,0 +1,52 @@
+{
+  "main": [
+    {
+      "id": 1,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_1.png",
+      "title": "Quartz Belt watch",
+      "name": "$150.00"
+    },
+    {
+      "id": 2,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_2.png",
+      "title": "Quartz Belt watch",
+      "name": "$150.00"
+    },
+    {
+      "id": 3,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_3.png",
+      "title": "Quartz Belt watch",
+      "name": "$150.00"
+    },
+    {
+      "id": 4,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_4.png",
+      "title": "GQuartz Belt watch",
+      "name": "$150.00"
+    },
+    {
+      "id": 5,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_5.png",
+      "title": "Quartz Belt watch",
+      "name": "$150.00"
+    },
+    {
+      "id": 6,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_6.png",
+      "title": "AQuartz Belt watch",
+      "name": "$150.00"
+    },
+    {
+      "id": 7,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_7.png",
+      "title": "JQuartz Belt watch",
+      "name": "$150.00"
+    },
+    {
+      "id": 8,
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_8.png",
+      "title": "KQuartz Belt watch",
+      "name": "$150.00"
+    }
+  ]
+}

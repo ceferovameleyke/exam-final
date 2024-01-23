@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  padding: 0px 40px;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+}
+
+#sect {
+  padding: 50px 0px;
+}
+#sect .mains {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+#sect .mains .save {
+  color: #000;
+  background-color: aquamarine;
+  padding: 5px;
+  border-radius: 5px;
+}
+#sect .mains a {
+  text-decoration: none;
+  color: #000;
+  background-color: aquamarine;
+  padding: 5px;
+  border-radius: 5px;
+}
+#sect .mains .file {
+  padding: 5px 30px;
+}
+
+body {
+  background-color: rgb(193, 211, 205);
+}/*# sourceMappingURL=add.css.map */
